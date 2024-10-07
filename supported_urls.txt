@@ -4,3 +4,6 @@ unix:///path/to/socket.sock?db=0
 unix://[username@]/path/to/socket.sock?db=0
 unix:///path/to/socket.sock?db=0[&password=password]
 unix://[username@]/path/to/socket.sock?db=0[&password=password]
+
+# Pyhton compatability
+redis://user:secret@localhost:6379/0?foo=bar&qux=baz
