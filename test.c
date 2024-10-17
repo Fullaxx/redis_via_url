@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+//#include <hiredis/hiredis.h>
+
 /*
 static int validate_url_rediss(char *buf, int len)
 {
